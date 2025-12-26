@@ -7,10 +7,10 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "drupal/commerce": "^2.0",
+        "drupal/commerce": "^3.2",
         "drupal/commerce_wishlist" : "^3.0",
         "drupal/commerce_shipping" : "^2.0",
-        "drupal/admin_toolbar": "^3.0",
+        "drupal/admin_toolbar": "^3.6",
         "drupal/features": "^3.0",
         "drupal/facets": "^3.0",
         "drupal/search_api": "^1.0",
@@ -26,8 +26,8 @@
         "drupal/weeshop_demo": "2.0.x-dev",
         "drupal/weeshop_molla": "1.0.x-dev",
         "drupal/weeshop_molla_supports": "1.0.x-dev",
-        "drupal/commerce_currency_resolver": "^1.0",
+        "drupal/commerce_currency_resolver": "^2.0",
         "drupal/color_field": "^3.0",
-        "drupal/gin": "^3.0"
+        "drupal/gin": "^5.0"
     }
 }
